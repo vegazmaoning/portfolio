@@ -5,11 +5,12 @@
 
 
 ## 作品集
-###*[海报/宣传册](https://github.com/pandao/editor.md)
+*[海报/宣传册](https://github.com/pandao/editor.md)
 
-###*[招贴画／壁纸_创意修图](https://github/pandao/editor.md)
+*[招贴画/壁纸_创意修图](https://github/pandao/editor.md)
 
-###*[包装设计（春馥坊）]()
+*[包装设计（春馥坊）]()
+
 ###*[衍生纪念品设计]()
 ###*[图文画册(平遥旅行拍摄)]()
 ###*[板绘作品]()
