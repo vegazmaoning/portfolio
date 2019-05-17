@@ -9,5 +9,3 @@
 ![下雨效果](http://cpjwrtfg.gic.bgp.cnbj01.cdsgss.com/rest/%E6%8B%9B%E8%B4%B4%E7%94%BB/%e4%b8%8b%e9%9b%a8%e6%95%88%e6%9e%9c.jpg)
 ![抱月亮队少女](http://cpjwrtfg.gic.bgp.cnbj01.cdsgss.com/rest/%E6%8B%9B%E8%B4%B4%E7%94%BB/%e6%8a%b1%e6%9c%88%e4%ba%ae%e7%9a%84%e5%b0%91%e5%a5%b3.jpg)
 ![新海诚风格仿手绘](http://cpjwrtfg.gic.bgp.cnbj01.cdsgss.com/rest/%E6%8B%9B%E8%B4%B4%E7%94%BB/%e6%96%b0%e6%b5%b7%e8%af%9a%e9%a3%8e%e6%a0%bc%e4%bb%bf%e6%89%8b%e7%bb%98ps.jpg)
-自制雪景动图
-![自制雪景动图](http://cpjwrtfg.gic.bgp.cnbj01.cdsgss.com/rest/%E6%8B%9B%E8%B4%B4%E7%94%BB/%e8%87%aa%e5%88%b6%e9%9b%aa%e6%99%af%e5%8a%a8%e5%9b%be.gif)
