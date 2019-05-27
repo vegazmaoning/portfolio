@@ -6,7 +6,7 @@
 
 *[招贴画/壁纸_创意修图](https://github.com/vegazmaoning/portfolio/blob/master/introduce/DigitalIllustration/README.md)
 
-*[包装设计（春馥坊）](https://github.com/vegazmaoning/portfolio/tree/master/introduce/packageDesign.md)
+*[包装设计（春馥坊）](https://github.com/vegazmaoning/portfolio/tree/master/introduce/README.md)
 
 *[衍生纪念品设计](https://github.com/vegazmaoning/portfolio/blob/master/introduce/souvenir/README.md)
 
