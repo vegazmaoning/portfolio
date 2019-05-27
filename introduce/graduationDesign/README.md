@@ -1,3 +1,4 @@
+# 这是我的毕业设计作品, 我查阅了大量医学资料，决定绘制12幅中草药插画，制作了相关衍生品。该作品作为年度优秀毕业设计作品被留校收藏。
 *[毕业设计](https://github.com/vegazmaoning/portfolio/blob/master/introduce/graduationDesign/derivative.md)
 
 *[衍生品](https://github.com/vegazmaoning/portfolio/blob/master/introduce/graduationDesign/inbetweening.md)
